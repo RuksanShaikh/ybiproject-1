@@ -1,2 +1,2 @@
-# ybiproject-1
+# ybiproject
 Internship Project
